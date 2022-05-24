@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (title_block
+    (title "Ice_cutter")
+    (date "2022-05-24")
+    (rev "v0.0")
+    (company "University of Cape Town")
+    (comment 2 "Rig designed to provide some control in a heated wire cutter")
+    (comment 3 "@Checked By:")
+    (comment 4 "@Author: Justin Pead, Tristyn Ferreiro")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
