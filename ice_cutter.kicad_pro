@@ -320,6 +320,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "f2588f5c-9969-4a0e-856a-d3740adbd885",
+      "FET_Drive"
+    ],
+    [
+      "e555dc6b-8637-487c-abde-e91736bc9165",
+      "FET_Drive1"
     ]
   ],
   "text_variables": {}
