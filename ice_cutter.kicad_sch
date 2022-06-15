@@ -10060,7 +10060,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 127 157.48 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e99d92eb-91e5-4201-a2a4-2e283a85591e)
-    (property "Reference" "TP?" (id 0) (at 124.46 162.56 0)
+    (property "Reference" "TP22" (id 0) (at 124.46 162.56 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "TestPoint" (id 1) (at 125.73 163.195 0)
@@ -11580,6 +11580,9 @@
     (path "/a283196c-90a1-4cf4-abc1-2dd399e83bdc"
       (reference "TP21") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
+    (path "/e99d92eb-91e5-4201-a2a4-2e283a85591e"
+      (reference "TP22") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
     (path "/ed0a645a-8744-4edf-9701-e8ea6d3c5ed9"
       (reference "TP23") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
@@ -11615,9 +11618,6 @@
     )
     (path "/7ac25f50-62c9-4328-b503-0e6017a4b0b0"
       (reference "TP34") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
-    )
-    (path "/e99d92eb-91e5-4201-a2a4-2e283a85591e"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
     (path "/967eb049-5189-4394-bd91-3e7a661ecab5"
       (reference "U1") (unit 1) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
